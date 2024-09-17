@@ -1,2 +1,3 @@
-this is my life
-2 h1 add
+## dependencies
+In dependencies react-dom and native require but we also having testing library at package 
+## 
